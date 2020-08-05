@@ -1,1 +1,1 @@
-console.log('linked!');
+alert('proceed');
